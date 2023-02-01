@@ -1,0 +1,15 @@
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/bin/Debug/net7.0/Liivakell
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/bin/Debug/net7.0/Liivakell.deps.json
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/bin/Debug/net7.0/Liivakell.runtimeconfig.json
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/bin/Debug/net7.0/Liivakell.dll
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/bin/Debug/net7.0/Liivakell.pdb
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.csproj.AssemblyReference.cache
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.AssemblyInfoInputs.cache
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.AssemblyInfo.cs
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.csproj.CoreCompileInputs.cache
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.dll
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/refint/Liivakell.dll
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.pdb
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/Liivakell.genruntimeconfig.cache
+/Users/kristoferlatt/Projects/Liivakell/Liivakell/obj/Debug/net7.0/ref/Liivakell.dll
